@@ -42,9 +42,14 @@ Non-inverting amplifier:
 <img width="459" height="341" alt="image" src="https://github.com/user-attachments/assets/d7c90647-e012-4cef-978c-6ab6e9509d90" />
 
 ## TABULATION:
+![WhatsApp Image 2025-10-19 at 21 02 22_db712064](https://github.com/user-attachments/assets/6457546f-5e22-477b-96d8-46d35c15adc8)
+## CALCULATION:
+![WhatsApp Image 2025-10-19 at 21 02 22_efbfda73](https://github.com/user-attachments/assets/65f6f071-94ab-4257-bcac-7aa5febc8630)
 
 
 ## GRAPH:
+![WhatsApp Image 2025-10-19 at 21 02 23_d13b1303](https://github.com/user-attachments/assets/18606d89-fba3-4b7e-b7ae-a921faeed1e1)
 
 
 ## RESULT:
+Thus the Non-Inverting Amplifiers are degsined and their performance was successfully tested using Op-Amp IC 741.
